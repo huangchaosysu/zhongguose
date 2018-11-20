@@ -1,0 +1,10 @@
+.divider {
+    width: 50px;
+    height: 20px;
+    text-align: left;
+    background: url('../../assets/bdr_w_50.png') no-repeat;
+    background-position-y: top;
+    font-size: 12px;
+    display: table-cell;
+    vertical-align: bottom;
+}

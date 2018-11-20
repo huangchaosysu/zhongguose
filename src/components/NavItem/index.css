@@ -1,0 +1,39 @@
+.navitem {
+    width: 50px;
+    height: 150px;
+    border-top: solid 10px;
+    border-bottom: solid 10px;
+    margin-bottom: 15px;
+}
+
+.navcontainer {
+    margin-top: 10px;
+    position: relative;
+    height: 100px;
+}
+
+.navitem_ch {
+    display: inline-block;
+    width: 25px;
+    height: 90px;
+    font-size: 16px;
+    position: absolute;
+    left: 22px;
+}
+
+.navitem_en {
+    padding-left: 7px;
+    display: inline-block;
+    width: 25px;
+    font-size: 12px;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    position: absolute;
+    left: 2px;
+    text-transform: uppercase;
+}
+
+.navecolnum {
+    font-size: 12px;
+    text-transform: uppercase;
+}
